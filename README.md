@@ -1,7 +1,3 @@
-**me:** Hi everyone, my name is Franco and I'm addicted to colorschemes
-
-**everyone else:** *Hi Franco*
-
 Vim colorschemes
 ================
 
